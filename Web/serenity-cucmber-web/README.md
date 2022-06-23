@@ -8,7 +8,7 @@ Basic Test for Web Automation using Serenity and Cucumber and Selenium with Java
 
 ## Steps to run demo test
 1-make sure java ,Intellij and Gradle are installed , for more information visit our documentation page:
-[link to docs]
+https://docs.experitest.com/display/TET/Selenium+with+Serenity
 
 2-Clone this git repository
 ```
