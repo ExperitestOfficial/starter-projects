@@ -7,8 +7,8 @@ This example will cover:
 Basic Test for Web Automation using Serenity and Cucumber and Selenium with Java as programming language and IntelliJ as IDE
 
 ## Steps to run demo test
-1-make sure java ,Intellij and Gradle are installed , for more information visit our documentation page:
-https://docs.experitest.com/display/TET/Selenium+with+Serenity
+1-make sure java ,Intellij and Gradle are installed , for more information see 
+[Selenium with Serenity](https://docs.digital.ai/bundle/TE/page/selenium_with_serenity.html).
 
 2-Clone this git repository
 ```
